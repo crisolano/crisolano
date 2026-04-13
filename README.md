@@ -137,28 +137,16 @@ disponible    : true   # ← cambia a false si no estás buscando trabajo
 <div align="center">
 
 <a href="https://github.com/crisolano/ferreteria">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=crisolano&repo=ferreteria&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img align="center" src="https://gh-card.dev/repos/crisolano/ferreteria.svg?fullname=" />
 </a>
 &nbsp;
 <a href="https://github.com/crisolano/pagweb-panaderia">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=crisolano&repo=pagweb-panaderia&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img align="center" src="https://gh-card.dev/repos/crisolano/pagweb-panaderia.svg?fullname=" />
 </a>
 
 </div>
-
 <br/>
 
-<div align="center">
-
-<a href="https://github.com/[TU_USUARIO_GITHUB]/[REPO_3]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[TU_USUARIO_GITHUB]&repo=[REPO_3]&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/[TU_USUARIO_GITHUB]/[REPO_4]">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[TU_USUARIO_GITHUB]&repo=[REPO_4]&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</a>
-
-</div>
 
 ---
 
