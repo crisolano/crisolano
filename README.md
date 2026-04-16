@@ -96,7 +96,7 @@ disponible    : true
 <br/>
 
 <div align="center">
-  <i>💼 Abierto a oportunidades de trabajo · Remoto o presencial en <b>[Tu ciudad]</b></i>
+  <i>💼 Abierto a oportunidades de trabajo · Remoto o presencial en <b>Bucaramanga, Santander</b></i>
 </div>
 
 ---
