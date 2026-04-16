@@ -65,14 +65,14 @@ disponible    : true
 <!-- ══════════════  PROYECTOS DESTACADOS  ══════════════ -->
 ## 🚀 Proyectos Destacados
 
-<div align="center">
-
-| | |
-|:---:|:---:|
-| [![ferreteria](https://gh-card.dev/repos/crisolano/ferreteria.svg?fullname=)](https://github.com/crisolano/ferreteria) | [![pagweb-panaderia](https://gh-card.dev/repos/crisolano/pagweb-panaderia.svg?fullname=)](https://github.com/crisolano/pagweb-panaderia) |
-
-</div>
-<br/>
+<p align="center">
+  <a href="https://github.com/crisolano/ferreteria">
+    <img src="https://gh-card.dev/repos/crisolano/ferreteria.svg?fullname=" alt="Ferretería">
+  </a>
+  <a href="https://github.com/crisolano/pagweb-panaderia">
+    <img src="https://gh-card.dev/repos/crisolano/pagweb-panaderia.svg?fullname=" alt="Panadería">
+  </a>
+  </p>
 
 <!-- ══════════════  CONTACTO  ══════════════ -->
 ## 📬 Conéctate Conmigo
