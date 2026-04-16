@@ -11,9 +11,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=CRISTIAN%20FERNEY%20SOLANO&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER&descAlignY=58&descSize=20&descColor=a8d8ea" />
 
 <!-- ══════════════  TYPING ANIMATION  ══════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Estudiante+de+software+develop;Programador+Junior;Entusiasta de IA;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Estudiante+de+software+develop;Programador+Junior;Entusiasta+de+IA;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </div>
 
 
